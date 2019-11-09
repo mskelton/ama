@@ -1,6 +1,6 @@
 # Ask me anything!
 
-## [Ask a question](https://github.com/mskelton/ama/issues/new) &nbsp;&nbsp;&nbsp; [Read questions](https://github.com/mskelton/ama/issues?q=is%3Aissue+is%3Aclosed)
+## [Ask a question](https://github.com/mskelton/ama/issues/new) &nbsp;&nbsp;&nbsp; [Read questions](https://github.com/mskelton/ama/issues?q=is%3Aclosed+-label%3Aduplicate+-label%3Ainvalid)
 
 See my [frequently asked](https://github.com/mskelton/ama/issues?utf8=%E2%9C%93&q=label%3A%22frequently+asked%22) questions.
 
