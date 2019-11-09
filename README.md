@@ -2,6 +2,8 @@
 
 ## [Ask a question](https://github.com/mskelton/ama/issues/new) &nbsp;&nbsp;&nbsp; [Read questions](https://github.com/mskelton/ama/issues?q=is%3Aissue+is%3Aclosed)
 
+See my [frequently asked](https://github.com/mskelton/ama/issues?utf8=%E2%9C%93&q=label%3A%22frequently+asked%22) questions.
+
 **If you'd rather not ask your question publicly**, send me an [email](mailto:mdskelton99@gmail.com) and I can post the question anonymously for you.
 
 Subscribe for updates by [watching the repo](https://github.com/mskelton/ama/subscription).
