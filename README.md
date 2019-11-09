@@ -15,8 +15,8 @@ Anything means anything. Personal questions. Money. Life. Code. Whatever.
 - Ensure your question haven't already been answered.
 - Use a succinct title and description.
 - Bugs & feature requests should be opened on the relevant issue tracker.
-- Support questions are better asked on StackOverflow.
-- Be civil and polite :)
+- Support questions are better asked on [StackOverflow](https://stackoverflow.com).
+- Be civil and polite. 🙂
 
 ### Disclaimer
 
