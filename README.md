@@ -4,7 +4,7 @@
 
 See my [frequently asked](https://github.com/mskelton/ama/issues?utf8=%E2%9C%93&q=label%3A%22frequently+asked%22) questions.
 
-**If you'd rather not ask your question publicly**, send me an [email](mailto:mdskelton99@gmail.com) and I can post the question anonymously for you.
+**If you'd rather not ask your question publicly**, send me a DM on Twitter [@mskelton0](https://twitter.com/mskelton0) and I can post the question anonymously for you.
 
 Subscribe for updates by [watching the repo](https://github.com/mskelton/ama/subscription).
 
